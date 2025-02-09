@@ -6,4 +6,4 @@ O repositório poderá ser organizado na forma de site no futuro.
 
 ## Livro CDAD2
 
-Acesse: <https://jtrecenti.github.io/cdad2-book>
+Acesse: <https://jtrecenti.github.io/cdad-book>
