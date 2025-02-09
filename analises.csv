@@ -1,0 +1,702 @@
+escopo,nome_autor,conta_popular,danos_morais,danos_materiais,procedencia,danos_morais_decisao,danos_materiais_decisao
+True,Maximiliano Freide Duarte,False,10000.0,0.0,improcedente,0.0,0.0
+True,Josely Ferreira Ribeiro,False,5000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Raiany da Silva Coelho,False,10000.0,0.0,parcialmente procedente,8000.0,0.0
+False,Ivonete Luiza Lima da Rocha,False,0.0,0.0,improcedente,0.0,0.0
+True,RODRIGO LUCIANO DE SOUZA,False,0.0,5000.0,parcialmente procedente,0.0,5000.0
+True,Endriw Araújo,False,10000.0,0.0,parcialmente procedente,0.0,0.0
+False,Adão Braz da Silva,False,20000.0,0.0,procedente,12000.0,0.0
+True,Greice Helen Silva dos Santos,False,0.0,0.0,parcialmente procedente,0.0,1713.96
+False,,False,0.0,0.0,improcedente,0.0,0.0
+True,Sara Victória Rosa de Melo,False,10000.0,0.0,improcedente,0.0,0.0
+False,Robson Barboza de Meneses,False,15000.0,0.0,procedente,8000.0,0.0
+False,Robson Barboza de Meneses,False,15000.0,0.0,procedente,8000.0,0.0
+True,Pedro Oscar Oliveira Ordonez,False,5000.0,0.0,parcialmente procedente,0.0,0.0
+True,Ligia Renata Soares Belfi Libano,False,0.0,0.0,improcedente,0.0,0.0
+True,Rosiane de Souza Pinheiro,False,25000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Geovani Barbosa de Brito,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,ALEXANDER WILIAN MARTINS LEMOS,False,0.0,0.0,improcedente,0.0,0.0
+True,Silvia Maria Ramos,False,14120.0,0.0,parcialmente procedente,8000.0,0.0
+False,Tathiene Silva Bonfim Gonçalves,False,5000.0,0.0,parcialmente procedente,5000.0,0.0
+False,Edivar Nascimento Barbosa,False,5000.0,0.0,procedente,5000.0,0.0
+True,Iago Felipe Andrade Soares,False,10000.0,0.0,parcialmente procedente,10000.0,0.0
+True,Kamila Barbosa Silva,False,2000.0,0.0,parcialmente procedente,2000.0,0.0
+False,Higor Sebastião Ferreira,False,0.0,30000.0,parcialmente procedente,0.0,0.0
+True,Renato Luiz Scochi,False,30000.0,0.0,procedente,8000.0,0.0
+True,Gabriel Pin Nogueira dos Santos,False,15000.0,0.0,parcialmente procedente,0.0,0.0
+True,Felipe de Oliveira Costa,False,10000.0,14273.66,parcialmente procedente,0.0,0.0
+True,José Roberto Pinheiro,False,8000.0,0.0,improcedente,0.0,0.0
+False,Clovis Volpi,False,5000.0,5000.0,improcedente,0.0,0.0
+True,CRISTIANO ROGERIO ALLEIN FONTES,False,0.0,379.99,parcialmente procedente,0.0,379.99
+False,Maucir Mathias Nascimento,False,0.0,0.0,improcedente,0.0,0.0
+False,Kza Producoes Artisticas,False,0.0,0.0,improcedente,0.0,0.0
+False,Alessandro Alves de Oliveira,False,0.0,0.0,procedente,0.0,0.0
+True,Elias Assis Neto,False,0.0,0.0,procedente,0.0,0.0
+False,ALPHA FINANCAS LTDA,False,10000.0,0.0,improcedente,10000.0,0.0
+True,Vanderlei João Schmitz,False,30000.0,0.0,procedente,30000.0,0.0
+True,Laísa Rechenberg,False,10000.0,0.0,improcedente,0.0,0.0
+False,Afonso Cardoso de Araujo,False,190000.0,0.0,improcedente,0.0,0.0
+True,Thiago Rocha Machado,False,5000.0,0.0,improcedente,0.0,0.0
+True,Mirella de Jesus Rocha,False,0.0,0.0,procedente,0.0,0.0
+True,Jair Antonio Delgado,False,50000.0,0.0,parcialmente procedente,7000.0,0.0
+False,Fernando Bertoloto,False,0.0,0.0,improcedente,0.0,0.0
+True,Paulo Henrique Vieira da Silva,False,0.0,0.0,parcialmente procedente,0.0,0.0
+False,Leandro Pralom,False,10000.0,0.0,procedente,5000.0,0.0
+False,Graziela Milani,False,20000.0,0.0,procedente,10000.0,0.0
+True,Pedro Alfonso Rodrigues Garcia,False,0.0,0.0,procedente,0.0,0.0
+False,Caroline Michele Pereira,False,5000.0,0.0,procedente,5000.0,0.0
+True,Igor Tolentino Job,False,5000.0,0.0,procedente,5000.0,0.0
+False,Jonatan de Jesus Sobrinho,False,5000.0,0.0,parcialmente procedente,5000.0,0.0
+False,Rubinettos Acabamentos Exclusivos Ltda,False,5000.0,0.0,procedente,5000.0,0.0
+False,PREFEITURA MUNICIPAL DE SALTO DE PIRAPORA,False,0.0,0.0,procedente,0.0,0.0
+True,Lucas Hipper Souza,False,20000.0,2702.1,parcialmente procedente,5000.0,0.0
+False,Dm Negocios Digitais Ltda,False,0.0,0.0,improcedente,0.0,0.0
+True,Patrick Willians Alves Leal,False,2000.0,0.0,parcialmente procedente,2000.0,0.0
+True,Thiago Augusto Grzybowski,True,1000.0,0.0,parcialmente procedente,1000.0,0.0
+True,Marcello Balido Amado,False,39600.0,10000.0,improcedente,0.0,0.0
+True,Wellen Bruna Costa Resende,True,2000.0,20000.0,procedente,2000.0,20000.0
+True,Daniel Oliveira Dantas,False,10000.0,0.0,improcedente,0.0,0.0
+True,Karlos Batista da Silva,False,2000.0,1000.0,procedente,2000.0,1000.0
+True,Josilane Bezerra Oliveira,False,0.0,0.0,improcedente,0.0,0.0
+False,Maria Lucia Gotens Silvachi,False,5000.0,0.0,parcialmente procedente,5000.0,0.0
+False,,False,0.0,0.0,improcedente,0.0,0.0
+True,Henrique Felipe dos Santos,False,5000.0,0.0,parcialmente procedente,0.0,0.0
+True,Edilson das Chagas de Oliveira Neto,False,10000.0,0.0,parcialmente procedente,3000.0,0.0
+True,André de Jesus Flores,False,10000.0,0.0,improcedente,0.0,0.0
+True,Victor Bruno de Souza Nunes,False,10000.0,0.0,improcedente,0.0,0.0
+False,Fernanda Mota Farhat,False,0.0,0.0,improcedente,0.0,0.0
+False,Jessica Muniz da Silva,False,2000.0,0.0,procedente,2000.0,0.0
+True,Camila Stefania Petito Venancio,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Anthony Saraiva Miranda,False,0.0,0.0,procedente,0.0,0.0
+True,Thadeu Moscoso Peccovello,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Fabiana de Lima Barroso,False,10000.0,1723.85,parcialmente procedente,0.0,0.0
+False,Ramon Leite Barbosa,False,0.0,0.0,improcedente,0.0,0.0
+False,,False,0.0,0.0,improcedente,0.0,0.0
+True,Rhayssa Helena de Macedo,False,20000.0,3000.0,parcialmente procedente,5000.0,0.0
+True,Tabata da Paixão Barreto,False,40000.0,0.0,parcialmente procedente,10000.0,0.0
+True,Leonardo Barbosa do Patrocínio,False,50000.0,0.0,parcialmente procedente,15000.0,0.0
+False,Justiça Pública,False,2000.0,0.0,improcedente,2000.0,0.0
+True,Victor Hugo Garcia Godinho,False,10000.0,87.72,parcialmente procedente,0.0,0.0
+False,Igor Jacinto Fratucello,False,0.0,0.0,improcedente,0.0,0.0
+True,Isadora Ramos Nunes,True,10000.0,0.0,improcedente,0.0,0.0
+True,Gildo José Moreira Campos,False,2000.0,0.0,parcialmente procedente,7000.0,0.0
+True,William Tenorio dos Santos,False,5000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Bruno Alexssander Souza Silva,True,10000.0,0.0,procedente,10000.0,0.0
+True,Rhoanna Vitória Domingos Magalhães,False,5000.0,0.0,procedente,5000.0,0.0
+True,Najara Camargo do Carmo,False,30000.0,0.0,improcedente,0.0,0.0
+True,Luiza de Melo Medina Martins,True,6000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Gabriela Fuzetto dos Santos,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Renan Cerqueira Santana,True,5000.0,0.0,procedente,5000.0,0.0
+True,Talita Ferrarini,False,50000.0,0.0,parcialmente procedente,5000.0,0.0
+False,Justiça Pública,False,0.0,0.0,improcedente,0.0,0.0
+True,GUILHERME LIMA DA SILVA,True,10000.0,0.0,parcialmente procedente,5000.0,0.0
+False,Camilli Fernanda de Souza,False,0.0,0.0,improcedente,0.0,0.0
+False,Rayssa Borges da Silva Queiroz,False,10000.0,144.34,parcialmente procedente,0.0,0.0
+True,Bruno Berti,False,10000.0,0.0,improcedente,0.0,0.0
+False,Jaisandra Souza dos Santos,False,0.0,0.0,improcedente,0.0,0.0
+True,Felipe Henrique dos Santos Bernardo,False,10000.0,0.0,improcedente,0.0,0.0
+False,Keilane da Silva Monteiro,False,2000.0,0.0,parcialmente procedente,2000.0,0.0
+False,Rayane Pires de Siqueira,False,5000.0,0.0,parcialmente procedente,5000.0,0.0
+False,Eliete Lopes de Moraes,False,0.0,0.0,improcedente,0.0,0.0
+False,Justiça Pública,False,0.0,0.0,improcedente,0.0,0.0
+True,Lais Trevizan Miron,False,30000.0,0.0,improcedente,0.0,0.0
+False,Larissa Moreira Bergamin,False,5000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Lucas Nogueira da Cruz (Lady Chokey),False,0.0,0.0,improcedente,0.0,0.0
+False,Antonio Cesar Gontijo de Abreu,False,30000.0,8500.0,improcedente,0.0,0.0
+True,João Paulo Medeiros Ferro Torres,False,0.0,0.0,improcedente,0.0,0.0
+True,Nathália Cunha da Silva,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Marcos David Araújo Del Rei,False,0.0,0.0,procedente,0.0,500.0
+True,Paulo Ricardo Menna Barreto de Araújo,False,0.0,2000.0,procedente,0.0,2000.0
+True,Skyler Fraenkel,False,3000.0,0.0,improcedente,0.0,0.0
+True,Brena Limoel Ferreira Costa Calado,False,50000.0,0.0,procedente,4000.0,0.0
+True,Eloisa Spolar da Silva,False,6000.0,0.0,procedente,6000.0,0.0
+False,Justiça Pública,False,0.0,0.0,improcedente,0.0,0.0
+True,Jaira Alves da Silva,False,10000.0,10000.0,parcialmente procedente,10000.0,10000.0
+True,Melina Painelli,False,2000.0,0.0,parcialmente procedente,2000.0,0.0
+True,NAVISSON LENCINE DE OLIVEIRA,False,15000.0,0.0,procedente,10000.0,0.0
+True,Ingredy Barbi de Andrade Producoes Cinematograficas,False,0.0,0.0,improcedente,0.0,0.0
+True,Renan Nathan dos Santos Silva,False,100000.0,0.0,parcialmente procedente,0.0,0.0
+True,Samantha Larissa Quitno Martins,False,0.0,0.0,procedente,0.0,0.0
+True,Samara Cristina de Oliveira,False,15000.0,0.0,improcedente,0.0,0.0
+False,Ana Maria Paulo da Silva,False,2000.0,0.0,procedente,2000.0,0.0
+True,Suellen Vieira,False,5000.0,0.0,improcedente,0.0,0.0
+True,Luiza Setra,False,5000.0,1000.0,parcialmente procedente,5000.0,0.0
+True,Igor Tolentino Job,False,0.0,0.0,improcedente,0.0,0.0
+True,Paloma Aguiar Fernandes,False,10000.0,0.0,procedente,5000.0,0.0
+True,Victor Stavale,False,1000.0,0.0,parcialmente procedente,1000.0,0.0
+True,Espólio de Marcelo Agostinho Ferreira,False,0.0,500.0,procedente,0.0,500.0
+True,Lucas Barbosa Nascimento,False,0.0,0.0,parcialmente procedente,0.0,0.0
+False,Aline Simões de Almeida,False,0.0,0.0,improcedente,0.0,0.0
+True,Treici Edna Trifiates Stering,False,10000.0,0.0,parcialmente procedente,0.0,0.0
+True,Joao Maurilio de Oliveira Ramos,False,10000.0,0.0,improcedente,0.0,0.0
+True,Sabrina Cristina Porto Conceição,False,10000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Caio Cesar Correa Pimentel,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Leonardo Rodrigues dos Santos,False,5000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Paloma Richter Bruxellas Moreira,False,0.0,0.0,improcedente,0.0,0.0
+True,Maria Fernanda Duarte Silva Zahra,False,20000.0,0.0,parcialmente procedente,0.0,0.0
+True,Lorena Almeida e Almeida,False,0.0,0.0,procedente,0.0,2000.0
+True,Cibelly Pereira Ferreira,False,0.0,0.0,procedente,0.0,1000.0
+False,Justiça Pública,False,0.0,0.0,improcedente,0.0,0.0
+True,Yasmin de Oliveira Marcato,False,0.0,0.0,improcedente,0.0,1500.0
+True,Patrícia da Silva Parada,True,5000.0,1500.0,procedente,5000.0,1500.0
+True,Samilton de Sousa dos Santos,False,0.0,0.0,parcialmente procedente,0.0,0.0
+False,Instituto Nacional de Capacitação e Educação para O Trabalho - Via de Acesso,False,0.0,0.0,improcedente,0.0,0.0
+True,La Belle Store,False,10000.0,0.0,procedente,5000.0,0.0
+True,Flavio Luis Silva Dias,False,0.0,0.0,improcedente,0.0,0.0
+False,Justiça Pública,False,0.0,0.0,improcedente,0.0,0.0
+True,Raphael Mancini Mafra,False,10000.0,4040.99,parcialmente procedente,0.0,4040.99
+True,Gabrielle Karine Pedrosa,False,10000.0,19165.12,improcedente,0.0,0.0
+False,Rafael dos Santos,False,5000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Patricia Sheila Souza Melo Faveron,False,10000.0,0.0,procedente,10000.0,0.0
+True,Mariana Araujo Mendes Bonafe,False,5000.0,0.0,parcialmente procedente,5000.0,0.0
+False,Ana Paula Polycarpo de Souza Marcelino,False,0.0,0.0,improcedente,0.0,0.0
+True,Ana Paula Polycarpo de Souza Marcelino,False,0.0,0.0,improcedente,0.0,0.0
+True,Ana Paula Polycarpo de Souza Marcelino,False,0.0,0.0,improcedente,0.0,0.0
+True,Ana Paula Polycarpo de Souza Marcelino,False,0.0,0.0,improcedente,0.0,0.0
+True,Ana Paula Polycarpo de Souza Marcelino,False,0.0,0.0,improcedente,0.0,0.0
+True,Felipe Bressanim Pereira,False,15000.0,0.0,procedente,10000.0,0.0
+True,Camila de Paula Matias Moura,False,10000.0,0.0,procedente,5000.0,0.0
+True,EMILY COSTA PAULINO,False,0.0,0.0,improcedente,0.0,0.0
+True,Rodrigo Augusto Domingos,True,0.0,0.0,improcedente,0.0,0.0
+False,Conservar Montagens e Infra Estrutura Ltda. - ME,False,0.0,0.0,improcedente,0.0,0.0
+True,Samira Ziyad Shahadeh,False,0.0,500.0,procedente,0.0,500.0
+True,Charles Felipe Almeida de Souza,True,10000.0,0.0,procedente,10000.0,0.0
+False,Cibelly Pereira Ferreira,False,0.0,0.0,improcedente,0.0,0.0
+False,,False,0.0,0.0,improcedente,0.0,0.0
+True,Inês Tânia Lima da Silva,False,0.0,0.0,parcialmente procedente,0.0,0.0
+False,Jade Martins Ribeiro,False,15000.0,0.0,procedente,15000.0,0.0
+True,Giovanni Rodrigues,False,0.0,0.0,improcedente,0.0,0.0
+False,Ana Carolina Campos Mello Barbieri e Silva,False,0.0,0.0,improcedente,0.0,0.0
+True,Ana Ligia Canieto,False,0.0,0.0,improcedente,0.0,0.0
+True,Giovanna Genesini Ribeiro,False,20000.0,0.0,parcialmente procedente,0.0,0.0
+True,Thaina Oliveira da Silva,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Antônio Cesar Rincon Filho,True,10000.0,0.0,procedente,10000.0,0.0
+True,Melissa Leal,False,0.0,0.0,improcedente,0.0,0.0
+True,Lucas Fernandes Moreira,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Roberto Carlos Maurício de Almeida,False,0.0,0.0,procedente,0.0,0.0
+False,Justiça Pública,False,0.0,0.0,improcedente,0.0,0.0
+True,Diego Armando Ribeiro da Conceição,True,20000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Guilherme Marconi Camargos Castro,False,0.0,0.0,improcedente,0.0,0.0
+True,Luciano Lobato Miranda,False,15000.0,0.0,parcialmente procedente,4000.0,0.0
+False,Sport Club Corinthians Paulista,False,50000.0,0.0,parcialmente procedente,0.0,0.0
+True,Carolina Gusela,False,5000.0,0.0,parcialmente procedente,3500.0,0.0
+False,Gustavo Antunes dos Santos,False,10000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Vlademir Carlos Alves de Lima,False,5000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Pedro José Manso,False,0.0,1000.0,procedente,0.0,1000.0
+True,Andre Henrique de Sales Teixeira,False,10000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Daiana Aparecida Birollo,True,5000.0,0.0,procedente,5000.0,0.0
+False,Filipe Drumond de Barros,False,5000.0,0.0,parcialmente procedente,5000.0,0.0
+False,Luana Benfica Cavallini,False,5000.0,0.0,procedente,5000.0,0.0
+False,Anderson Luis Ribeiro de Andrade,False,15000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Marcos Roberto Berck,False,0.0,0.0,parcialmente procedente,0.0,0.0
+False,Justiça Pública,False,0.0,0.0,improcedente,0.0,0.0
+True,Maria Eliza Vallis Stein,False,10000.0,0.0,improcedente,0.0,0.0
+True,Ana Clara Alves dos Santos,False,10000.0,0.0,parcialmente procedente,0.0,0.0
+False,Rodrigo Luis Araujo Montoro,False,10000.0,27132.65,improcedente,0.0,0.0
+True,Caique Melone Bezerra,False,10000.0,300.0,parcialmente procedente,10000.0,300.0
+True,CTMD ESHOP COM VAREJISTA E DIST.,False,10000.0,0.0,parcialmente procedente,0.0,0.0
+False,Melquiades de Lima Servicos Administrativos Ltda,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Lara Cardoso Corrales,False,10000.0,0.0,parcialmente procedente,10000.0,0.0
+True,Glaucia Regina Dionizia Candido,False,0.0,0.0,improcedente,0.0,0.0
+True,Rogério da Silva Botelho,False,0.0,0.0,improcedente,0.0,0.0
+True,Jacinto Machado da Silva,False,25000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Vinicius Westerkamp,False,10000.0,7000.0,parcialmente procedente,10000.0,7000.0
+False,Justiça Pública,False,0.0,0.0,improcedente,0.0,0.0
+False,Ateliê Pimpnella Confecções LTDA e Andressa Bausch Amaral Padovani,False,10000.0,0.0,procedente,10000.0,0.0
+True,Gilliardi Claudio Machado,False,10665.34,4334.66,procedente,5000.0,8668.0
+True,Laureane de Oliveira Nascimento,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Nadine Katalina Quintanda Borges,False,0.0,5716.05,improcedente,0.0,5716.05
+True,Lucas Pereira Lima,False,0.0,0.0,improcedente,0.0,0.0
+True,Victor Hugo de Oliveira Duarte,False,10000.0,0.0,procedente,5000.0,0.0
+True,Nadine Katalina Quintana Borges,False,0.0,0.0,improcedente,0.0,0.0
+True,Alan Jhones Albuquerque Trindade,False,0.0,0.0,improcedente,0.0,0.0
+True,Ingredy Barbi de Andrade Producoes Cinematograficas,True,10000.0,0.0,parcialmente procedente,0.0,0.0
+True,Lucas Santos Mayoral,False,10000.0,0.0,procedente,10000.0,0.0
+True,Rafael Patrick Penha,False,0.0,0.0,improcedente,0.0,0.0
+True,Afonso Carvalho de Araújo,False,0.0,0.0,parcialmente procedente,0.0,1000.0
+False,Proxys Tecnologia Ltda,False,0.0,0.0,improcedente,0.0,0.0
+True,Lucas Oliveira dos Santos,False,0.0,0.0,improcedente,0.0,0.0
+True,Gien Hon Liu,True,0.0,0.0,procedente,0.0,0.0
+True,Thiago Henrique Pinto Fonseca,True,100000.0,0.0,parcialmente procedente,20000.0,0.0
+True,Alessandro Silva Souza,False,10000.0,0.0,procedente,10000.0,0.0
+False,Tiago Mauricio Alves,False,0.0,0.0,improcedente,0.0,0.0
+True,Ivaneide Pereira da Silva,False,15000.0,0.0,procedente,5000.0,0.0
+True,Nadine Katalina Quintana Borges,False,15000.0,0.0,improcedente,0.0,0.0
+True,Flávio Alves Garção,False,5000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Francielen Mayara Ferreira Cavalcanti,False,25000.0,0.0,improcedente,0.0,0.0
+True,Debora Cristina Tozetto,False,15000.0,0.0,procedente,3000.0,0.0
+True,Juliana Machado da Silva,False,10000.0,10000.0,parcialmente procedente,3000.0,0.0
+False,William Guimaraes Santos,False,0.0,0.0,improcedente,0.0,0.0
+True,Fernando Vinicius de Souza Chagas,True,0.0,0.0,procedente,0.0,0.0
+True,Cairo Guimarães Rosa,False,7500.0,0.0,procedente,7500.0,0.0
+True,Rhuan Paulino Cavalcante,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Hiago Vieira Panella,False,5000.0,2740.0,parcialmente procedente,5000.0,2740.0
+False,MARTELLI CLINIC ODONTOLOGIA LTDA ME,False,0.0,0.0,improcedente,0.0,0.0
+True,Douglas Gabriel Matos de Oliveira,False,10000.0,0.0,parcialmente procedente,2500.0,0.0
+False,Vinicius Rodrigues Batista Primo,False,0.0,0.0,improcedente,0.0,0.0
+True,Laura Capelin,False,0.0,0.0,procedente,0.0,1500.0
+True,Ana Catarina Andrade Bertoncini,False,10000.0,0.0,procedente,2000.0,0.0
+True,Camila Pinto Brito Sehnem,False,0.0,0.0,improcedente,0.0,0.0
+True,Guilherme Brasil Barcellos,False,5000.0,0.0,procedente,5000.0,0.0
+False,Justiça Pública,False,0.0,0.0,improcedente,0.0,0.0
+True,Kelmy de Jesus Santos,False,0.0,0.0,parcialmente procedente,0.0,8000.0
+True,João Warles Pereira Ricarte,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Sandy Carol Vieira Lopes,False,0.0,2004.38,parcialmente procedente,0.0,0.0
+False,Carla Lorenda Ferreira Candido,False,5000.0,0.0,procedente,5000.0,0.0
+True,Mauricio Gaspari Pupo,False,5000.0,0.0,parcialmente procedente,0.0,0.0
+False,Patricia Caetano Borges Freitas,False,0.0,0.0,parcialmente procedente,0.0,18501.0
+True,Nelson Hossri Neto,False,0.0,0.0,procedente,0.0,0.0
+True,Gustavo Pruckniesky,False,0.0,0.0,improcedente,0.0,0.0
+True,Danilo José Bento Pereira,False,0.0,0.0,parcialmente procedente,0.0,0.0
+False,,False,0.0,0.0,improcedente,0.0,0.0
+True,Jessica Cristina dos Reis,False,0.0,0.0,procedente,0.0,1000.0
+True,Victor Stavale,False,30000.0,0.0,improcedente,0.0,0.0
+True,David Alves de Lima,False,3000.0,0.0,parcialmente procedente,3000.0,0.0
+True,Fabio Augusto de Carvalho,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Carlos Henrique Moreira Borges Campos,False,0.0,0.0,improcedente,0.0,0.0
+True,Alice Gomes Soares,False,10000.0,0.0,parcialmente procedente,0.0,0.0
+True,Patrick Pinheiro dos Santos Rozante,False,10000.0,0.0,improcedente,0.0,0.0
+True,Hudson Cunha Xavier,False,0.0,0.0,improcedente,0.0,0.0
+True,José Batista da Silva,False,30000.0,1556.95,parcialmente procedente,5000.0,0.0
+True,Louise de Lima Rodrigues,False,10000.0,0.0,improcedente,0.0,0.0
+False,Elecebe Comércio de Alimentos Ltda,False,0.0,0.0,improcedente,0.0,0.0
+True,Aline Moraes Weyne Oliveira,False,10000.0,0.0,parcialmente procedente,0.0,0.0
+True,Mhd Anas Ahmad Aletah,False,10000.0,0.0,parcialmente procedente,0.0,0.0
+False,Wanderson Cunha de Oliveira,False,5000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Vinicius Marcelo Vieira Feliciano,False,0.0,0.0,parcialmente procedente,0.0,0.0
+False,Keverson Brás dos Santos,False,0.0,0.0,improcedente,0.0,0.0
+True,Jaqueline dos Santos Prestes,False,0.0,0.0,procedente,0.0,0.0
+True,Kamila Gomes de Oliveira Salkini,False,10000.0,0.0,parcialmente procedente,0.0,0.0
+True,Emerson Cruz da Conceição,False,0.0,4399.78,improcedente,0.0,0.0
+False,Gleidson de Jesus Caetano,False,5000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Fernanda Mota Farhat,False,0.0,0.0,improcedente,0.0,1500.0
+True,Juliana Pereira dos Santos,False,0.0,0.0,improcedente,0.0,0.0
+True,Wende Pereira Crispim,False,10000.0,0.0,procedente,5000.0,0.0
+False,,False,0.0,0.0,procedente,0.0,1412.0
+True,Lblf Negócios Imobiliários,False,0.0,0.0,parcialmente procedente,0.0,0.0
+False,Patricia Saran de Oliveira Castro,False,0.0,0.0,improcedente,0.0,0.0
+False,Natalia Soares Souza,False,5000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Leonardo de Oliveira Monteiro,False,0.0,0.0,procedente,0.0,0.0
+True,Fernanda Lopes dos Santos Gama,False,8000.0,0.0,improcedente,0.0,0.0
+True,Marcelo Bene de Lima Silva,True,10000.0,0.0,improcedente,0.0,0.0
+True,Gustavo Starling Moss,False,10000.0,34986.19,procedente,10000.0,34986.19
+True,Rafaela dos Reis Pinto,False,0.0,0.0,parcialmente procedente,0.0,0.0
+False,Justiça Pública,False,0.0,0.0,improcedente,0.0,0.0
+True,Vent Vert Cosmeticos,False,0.0,0.0,procedente,0.0,0.0
+False,Justiça Pública,False,0.0,0.0,improcedente,0.0,0.0
+True,Fernanda Mota Farhat,True,0.0,0.0,procedente,0.0,1500.0
+True,Willians Fernandes Celes,False,7000.0,1623.98,improcedente,0.0,0.0
+True,Jose Henrique Silva Ferreira,False,5000.0,0.0,procedente,5000.0,0.0
+True,Laura Ferreira da Fonseca Mozdzenski,False,10000.0,0.0,parcialmente procedente,2000.0,0.0
+True,Erison dos Santos da Silva,False,10000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Riquelme Daniel de Lima,False,5000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Tiago Paulo de Souza Mendonça,False,0.0,0.0,procedente,0.0,0.0
+False,Justiça Pública,False,0.0,0.0,improcedente,0.0,0.0
+True,Claudir Alves de Souza,False,10000.0,0.0,procedente,10000.0,0.0
+True,Rebeca Brito Silva,False,3000.0,0.0,parcialmente procedente,3000.0,0.0
+False,Julianderson Evandro Fernandes,False,10000.0,0.0,improcedente,0.0,0.0
+True,Wesley Gimenez Benedito,True,10000.0,0.0,parcialmente procedente,0.0,0.0
+True,Alessandro Delarissa,False,40000.0,0.0,parcialmente procedente,5000.0,0.0
+True,João Fernandes da Silva,False,17000.0,0.0,parcialmente procedente,5000.0,0.0
+False,,False,0.0,0.0,improcedente,0.0,0.0
+True,Andrey Melo Gentil,False,8000.0,0.0,parcialmente procedente,8000.0,0.0
+False,Adamastor Antas de Siqueira,False,10000.0,0.0,improcedente,0.0,0.0
+True,Iver Jordy Pajizo Ramos,False,0.0,0.0,improcedente,0.0,0.0
+True,Thayssa de Madeiras,False,24000.0,0.0,improcedente,0.0,0.0
+False,Vivian Secco Geraldo Capelotto,False,0.0,0.0,improcedente,0.0,0.0
+True,Débora Stéfane da Silva,True,10000.0,0.0,parcialmente procedente,5000.0,0.0
+False,Luiz Pereira dos Santos,False,30000.0,0.0,procedente,30000.0,0.0
+True,Marcello da Conceicao,False,0.0,0.0,improcedente,0.0,0.0
+True,Marcio Grobocopatel,False,30000.0,0.0,parcialmente procedente,0.0,0.0
+True,João Deoclides Martins,False,40000.0,0.0,parcialmente procedente,11500.0,0.0
+False,Thiago Bernardes da Silva,False,0.0,0.0,improcedente,0.0,0.0
+False,Aparecido Renan Vicente,False,0.0,0.0,improcedente,0.0,0.0
+True,Leticia Teixeira da Silva,False,10000.0,0.0,parcialmente procedente,0.0,0.0
+True,Marifrancis Gonçalves Legnini Vieira,False,10000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Mariana Santana Antiquera,False,5000.0,0.0,parcialmente procedente,5000.0,0.0
+False,Domeujeito Calçados Eireli,False,10000.0,0.0,parcialmente procedente,0.0,0.0
+True,Deividi Martinez Rodrigues,True,10000.0,0.0,procedente,10000.0,0.0
+True,Guilherme Ferreira Vicente da Silva,False,10000.0,0.0,parcialmente procedente,0.0,0.0
+True,William Guimaraes Santos,False,22025.32,1000.0,parcialmente procedente,22025.32,1000.0
+True,Nyvi Andrade Estephan,False,500000.0,0.0,procedente,150000.0,0.0
+True,Nelson Verissimo Avila,False,3000.0,0.0,parcialmente procedente,3000.0,0.0
+True,Victor Stavale,False,0.0,0.0,improcedente,0.0,0.0
+True,João Pedro Castellucci Camossatto,False,0.0,84.2,improcedente,0.0,0.0
+False,Ivanderson Barbosa da Silva Lino,False,5000.0,0.0,procedente,5000.0,0.0
+True,Cibelly Pereira Ferreira,False,10000.0,0.0,procedente,5000.0,0.0
+True,Espaço de Neurodesenvolvimento da Barra Ltda,False,5000.0,0.0,procedente,5000.0,0.0
+True,Gabriel Aguiar Donadoni,False,0.0,0.0,improcedente,0.0,0.0
+False,Estilo Numero 1 Suvenires e Artigos Recreativos Ltda,False,50000.0,0.0,improcedente,0.0,0.0
+True,Michelle Dias da Cruz,False,5000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Pedro Alfonso Rodrigues Garcia,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Mariana Ellen Floriani,False,0.0,0.0,improcedente,0.0,0.0
+True,Danilo Fagundes,False,40000.0,0.0,procedente,20000.0,0.0
+True,Raab de Bem Almeida,False,10000.0,0.0,parcialmente procedente,0.0,1000.0
+False,Michael de Almeida,False,0.0,0.0,improcedente,0.0,0.0
+False,Justiça Pública,False,0.0,0.0,improcedente,0.0,0.0
+True,Thalia Lima da Silva,False,2000.0,0.0,parcialmente procedente,2000.0,0.0
+True,Felipe Manzine,False,0.0,0.0,improcedente,0.0,500.0
+True,Francisco Gilvan dos Santos Gomes Filho,False,10000.0,0.0,procedente,10000.0,0.0
+True,Leonardo Rodrigues dos Santos,False,0.0,0.0,improcedente,0.0,0.0
+True,Felipe Salinas Cavina,False,0.0,0.0,improcedente,0.0,0.0
+False,DIEGO APARECIDO DELGADO,False,0.0,0.0,improcedente,0.0,0.0
+True,Rafael Pereira dos Santos,False,10000.0,0.0,procedente,5000.0,0.0
+True,Eduardo Furtado Viegas,True,30000.0,0.0,improcedente,0.0,0.0
+True,Caio Italo Machado Figueiredo,False,15000.0,0.0,procedente,5000.0,0.0
+False,Cristiano Ronaldo Tenorio da Silva,False,10000.0,0.0,parcialmente procedente,5000.0,0.0
+False,,False,0.0,0.0,improcedente,0.0,0.0
+True,P-Exp Empreendimentos Digitais e Intermediações Ltda,False,10000.0,2628.6,parcialmente procedente,0.0,2628.6
+True,Jeffersson da Silva Oliveira,False,0.0,60.0,procedente,0.0,60.0
+False,Izabella Barbosa de Aliais,False,0.0,0.0,improcedente,0.0,0.0
+True,Marcello Balido Amado,False,39600.0,0.0,procedente,8000.0,0.0
+True,Renaldo Pereira Alves Junior,False,0.0,0.0,improcedente,0.0,0.0
+False,William Guimaraes Santos,False,0.0,0.0,improcedente,0.0,0.0
+True,Bruna Scarpelli Montenegro Barroca,False,0.0,0.0,improcedente,0.0,5511.73
+True,Cleyton Agra da Silva,False,0.0,0.0,improcedente,0.0,0.0
+True,Thiago Augusto Grzybowski,True,0.0,0.0,procedente,0.0,0.0
+True,Mel Firetti Las Casas,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Flavia Pinheiro Lima,False,0.0,0.0,improcedente,0.0,0.0
+True,Jose Tomaz da Silva Neto,False,0.0,0.0,improcedente,0.0,0.0
+False,"Arara Produções Artísticas, Culturas e Eventos Ltda",False,0.0,0.0,parcialmente procedente,0.0,162400.0
+True,Fábio Augusto dos Santos Watanabe,False,16500.0,727.28,parcialmente procedente,15000.0,727.28
+True,Fabiano Renato Curi Gonçalo,False,2000.0,0.0,parcialmente procedente,2000.0,0.0
+True,Igor Tolentino Job,False,5000.0,0.0,procedente,5000.0,0.0
+False,,False,0.0,0.0,improcedente,0.0,0.0
+False,Livia Maria Marinato da Silva,False,0.0,0.0,improcedente,0.0,0.0
+True,Alcino Macedo de Lima Neto,False,0.0,0.0,parcialmente procedente,0.0,0.0
+False,Ronaldo Aparecido Peixoto da Silva,False,10000.0,115.9,parcialmente procedente,0.0,115.9
+True,Webert Alves da Silva,False,2000.0,0.0,parcialmente procedente,2000.0,0.0
+True,Yasmin de Oliveira Marcato,False,5000.0,0.0,procedente,5000.0,0.0
+True,Lara Cardoso Corrales,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Sendup Publicidade e Marketing Ltda,False,0.0,0.0,improcedente,0.0,800.0
+True,Matheus Reinaldo Ramos Ferreira,True,10000.0,0.0,procedente,10000.0,0.0
+True,Sandra Regina Sant'anna Petitto,False,5000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Giovana Vieira Fagundes,False,10000.0,0.0,parcialmente procedente,2000.0,0.0
+True,Genaro Gabriel Leite Magri,False,7500.0,0.0,parcialmente procedente,7500.0,0.0
+True,Ranniele Batista Macedo,False,6000.0,167.92,parcialmente procedente,6000.0,167.92
+False,Leonardo Henrique Almeida Wagner,False,5000.0,0.0,procedente,5000.0,0.0
+True,Ronaldo Gabriel da Silva,True,5000.0,0.0,procedente,5000.0,0.0
+True,Kevin de Oliveira Azevedo,False,200000.0,0.0,improcedente,0.0,0.0
+False,Bruna Ferreira de Almeida,False,5000.0,0.0,procedente,5000.0,0.0
+False,Bureau Felipe Russo Serviços de Construção Ltda,False,5000.0,608.11,parcialmente procedente,0.0,608.11
+False,Comunicar e Significar Psicologia e Intervenção Comportamental Ltda,False,0.0,0.0,improcedente,0.0,0.0
+False,Danielle Pereira de Queiroz,False,0.0,0.0,improcedente,0.0,0.0
+False,Douglas Richard Silva de Oliveira,False,0.0,0.0,improcedente,0.0,0.0
+True,Cibelly Pereira Ferreira,True,0.0,0.0,improcedente,0.0,0.0
+True,Pedro Yates Porto da Silva,False,30000.0,0.0,procedente,5000.0,0.0
+True,Davi Marcelino Braga,False,15000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Rei Tech Ltda.,False,0.0,8917.63,procedente,0.0,8917.63
+True,Victor Stavale,False,25000.0,0.0,parcialmente procedente,0.0,0.0
+True,Vinicius Villalva Tokue,True,7000.0,0.0,improcedente,0.0,0.0
+False,Jackson Vasconcelos Loiola dos Santos,False,5000.0,3279.6,parcialmente procedente,5000.0,3279.6
+True,Ligia Renata Soares Belfi Libano,False,0.0,1000.0,procedente,0.0,1000.0
+True,Lucas Kenzi Watanabe,False,20000.0,0.0,procedente,7000.0,0.0
+True,Mariane Araujo Silva,False,0.0,0.0,procedente,0.0,0.0
+True,Marcelo Midaglia Resende,False,3000.0,0.0,procedente,3000.0,0.0
+False,Adeilso Silva Pinheiro,False,0.0,26040.0,parcialmente procedente,0.0,0.0
+True,Ednei Marcolino de Souza,False,0.0,0.0,improcedente,0.0,0.0
+False,Daniel Netto Dauzacker,False,5000.0,0.0,procedente,5000.0,0.0
+False,Justiça Pública,False,0.0,0.0,improcedente,0.0,0.0
+False,Paschoal Curcio,False,10000.0,984.28,improcedente,0.0,0.0
+False,Justiça Pública,False,0.0,0.0,improcedente,0.0,0.0
+False,Yara Amarante Schutze,False,0.0,0.0,improcedente,0.0,0.0
+True,Maria Antonia Valadao Nepomuceno,False,10000.0,0.0,parcialmente procedente,1500.0,0.0
+True,Ligia Ribeiro Mesquita,False,5000.0,0.0,procedente,5000.0,0.0
+False,Gabriel Brunatti,False,0.0,0.0,improcedente,0.0,0.0
+True,Elias Nunes dos Santos,False,0.0,0.0,improcedente,0.0,0.0
+True,Karlos Batista da Silva,False,0.0,0.0,improcedente,0.0,0.0
+True,Tifany Ketelin Ferreira dos Santos,True,0.0,0.0,improcedente,0.0,0.0
+True,Fernando Lisboa da Conceição,False,15000.0,0.0,parcialmente procedente,0.0,0.0
+True,Daniel Soares Peixoto Rodrigues,False,0.0,0.0,improcedente,0.0,0.0
+True,Gustavo Costa Machado,False,0.0,0.0,improcedente,0.0,0.0
+False,Ana Carla de Castro Laraia,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Adryan Gabriel Barbosa,False,1000.0,0.0,parcialmente procedente,1000.0,0.0
+True,Peter Tamas Szenttamasy,False,0.0,0.0,improcedente,0.0,0.0
+True,Iury Alves da Mata,False,2000.0,0.0,parcialmente procedente,2000.0,0.0
+True,Rafael Ferreira da Silva,False,0.0,0.0,improcedente,0.0,0.0
+True,Jaqueline dos Santos Prestes,False,0.0,800.0,improcedente,0.0,800.0
+True,Giovanni Rodrigues,False,0.0,0.0,procedente,0.0,0.0
+True,Mariana Ellen Floriani,False,0.0,0.0,procedente,0.0,1500.0
+True,Gustavo Figueiredo dos Santos,True,5000.0,1000.0,improcedente,0.0,1000.0
+True,Danielle Pereira de Queiroz,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Caio Vitor Silveiro,False,500.0,0.0,procedente,500.0,0.0
+True,Tobias Alves Neves,False,25000.0,0.0,improcedente,0.0,0.0
+True,Hudielen Tais de Souza Alvez Campeol,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Daniel Magela Elias,False,13000.0,0.0,improcedente,0.0,0.0
+True,Ana Ligia Canieto,False,2000.0,0.0,parcialmente procedente,2000.0,0.0
+True,Yohan Tanaka,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Ana Ligia Canieto,False,0.0,0.0,improcedente,0.0,0.0
+True,Eduarda Carvalho de Sá,False,0.0,0.0,procedente,0.0,700.0
+False,Mhm Supermercados Ltda,False,10000.0,0.0,improcedente,0.0,0.0
+True,Luana Gardil Silva,False,0.0,0.0,improcedente,0.0,0.0
+True,Daniel Soares Peixoto Rodrigues,False,0.0,0.0,procedente,0.0,0.0
+True,Igor Jacinto Fratucello,False,20000.0,0.0,improcedente,0.0,0.0
+False,Felipe da Silva Pinheiro,False,5000.0,0.0,procedente,5000.0,0.0
+True,Antônio Cesar Rincon Filho,True,0.0,0.0,parcialmente procedente,0.0,0.0
+False,Elissandro Barboza de Lima,False,0.0,47399.0,improcedente,0.0,0.0
+False,Justiça Pública,False,0.0,0.0,improcedente,0.0,0.0
+False,Fernando Pallone Testini,False,10000.0,32299.85,improcedente,0.0,0.0
+False,"Mvw Negocios, Importações e Esportações Ltda",False,0.0,31178.48,improcedente,0.0,0.0
+True,Salomão Ricardo Amaral Barbosa,False,3000.0,0.0,parcialmente procedente,3000.0,0.0
+True,Mauri Antonio do Canto,False,0.0,0.0,improcedente,0.0,0.0
+False,Clara Isis da Cunha Santos,False,0.0,0.0,improcedente,0.0,0.0
+True,Fernanda Reginaldo Rosa Dias,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Pedro Marques Policarpo,False,500.0,0.0,improcedente,0.0,0.0
+False,Ação Serviços Desentupidora Ltda.,False,0.0,0.0,improcedente,0.0,0.0
+True,Taylor Simão Sander,False,0.0,0.0,improcedente,0.0,0.0
+False,Gleice Gabriela Gomes Rodrigues,False,8000.0,720.0,improcedente,0.0,0.0
+True,Ana Cláudia Lima Salgado,False,0.0,0.0,improcedente,0.0,0.0
+True,Marcos Rodrigo Maia da Costa,False,7000.0,0.0,parcialmente procedente,7000.0,0.0
+True,Fernanda Ferreira Campos,False,3500.0,0.0,parcialmente procedente,3500.0,0.0
+True,Victor Stavale,True,15000.0,0.0,improcedente,0.0,0.0
+True,Sahra de Assis Avequi,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Felipe Henrique dos Santos Bernardo,False,0.0,0.0,improcedente,0.0,0.0
+True,Gustavo Costa Machado,False,0.0,3000.0,parcialmente procedente,0.0,3000.0
+True,Cláudio Dias Antonio Ferreira,False,0.0,0.0,improcedente,0.0,5511.73
+True,Fábio Breno Gomes do Nascimento,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Julia Bezerra Marques Nunes,False,8000.0,0.0,parcialmente procedente,8000.0,0.0
+False,Angelica Paula Figueiredo,False,5000.0,0.0,parcialmente procedente,5000.0,0.0
+False,Michel Zaninella de Oliveira,False,5000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Luis Guillermo Cuellar Ramirez,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Ana Elisa Borges Barbosa de Souza,False,0.0,0.0,improcedente,0.0,0.0
+True,Marcos Tarcitani,False,30000.0,0.0,parcialmente procedente,7000.0,0.0
+True,Ingrede de Almeida da Silva,False,0.0,0.0,improcedente,0.0,0.0
+True,Francielen Mayara Ferreira Cavalcanti,True,3000.0,0.0,procedente,3000.0,0.0
+True,Jonas Marcelo Catonilho da C Bueno,False,4000.0,0.0,parcialmente procedente,4000.0,0.0
+False,Associação Brasileira de Direitos Reprográficos,False,0.0,0.0,procedente,0.0,0.0
+True,Luana Gardil Silva,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Eliza Teixeira Noroes,False,0.0,800.0,procedente,0.0,800.0
+True,Klébia Silva de Oliveira,True,5000.0,2000.0,procedente,5000.0,2000.0
+False,Ministério Público do Estado de São Paulo,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Matheus Gomes de Souza Ferreira,False,3000.0,0.0,parcialmente procedente,3000.0,0.0
+True,Tatiane Borges Balber Pereira,False,0.0,0.0,improcedente,0.0,0.0
+True,Renan Agostinho Moura da Silva,True,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Vanessa Cristina André de Paiva,False,10000.0,0.0,procedente,10000.0,0.0
+False,Rodrigo Andrade de Menezes,False,20000.0,0.0,parcialmente procedente,0.0,0.0
+True,Maísa Pedroso Luccas,False,0.0,1000.0,procedente,0.0,1000.0
+True,Renata Neves Barbosa Trevisan,False,20000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Mariane Araujo Silva,True,1500.0,1000.0,procedente,1500.0,1000.0
+True,Rafael Murmura Angelo,True,10000.0,2000.0,procedente,0.0,2000.0
+False,Nubia Cassia Ferreira de Oliveira,False,20000.0,0.0,parcialmente procedente,10600.0,0.0
+True,VANESSA CRISTINA ANDRÉ DE PAIVA,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Ronald Richard Coelho de Jesus,False,0.0,0.0,improcedente,0.0,0.0
+True,Daniel Magela Elias,False,0.0,0.0,improcedente,0.0,0.0
+True,Kelmy de Jesus Santos,False,3000.0,0.0,parcialmente procedente,3000.0,0.0
+False,Fernanda Schlic Garcia,False,0.0,0.0,improcedente,0.0,0.0
+True,Magno Souza Alves,False,0.0,0.0,improcedente,0.0,0.0
+True,Stefani Guimaraes de Souza,False,0.0,0.0,improcedente,0.0,0.0
+True,Bibyana Medeiros Boes,False,15000.0,0.0,improcedente,0.0,0.0
+True,Maria Júlia Fukugava,False,0.0,0.0,improcedente,0.0,0.0
+False,Camilli Fernanda de Souza,False,0.0,0.0,improcedente,0.0,0.0
+True,Lucas Nogueira da Cruz (Lady Chokey),False,0.0,0.0,improcedente,0.0,0.0
+False,Instituto Prominas Serviços Educacionais Ltda,False,30000.0,350000.0,parcialmente procedente,0.0,250000.0
+True,João Paulo Medeiros Ferro Torres,False,0.0,0.0,improcedente,0.0,0.0
+True,Benedita Galvão Cardoso,False,10000.0,5833.99,parcialmente procedente,5000.0,0.0
+True,Aline Corgozinho de Faria,False,0.0,0.0,improcedente,0.0,10000.0
+True,Carlos Henrique Moreira Borges Campos,False,0.0,1500.0,procedente,0.0,0.0
+True,William Guimaraes Santos,False,0.0,0.0,improcedente,0.0,0.0
+True,Thais Panebianchi Moraes,False,5000.0,3000.0,procedente,5000.0,3000.0
+True,Bianca Sousa de Freitas Almeida,False,3000.0,0.0,parcialmente procedente,3000.0,0.0
+True,Malaquias Paulino da Silva,False,10000.0,0.0,procedente,5000.0,0.0
+True,Yasmin de Oliveira,False,0.0,0.0,improcedente,0.0,0.0
+True,Olinda Oliveira da Conceição,False,20000.0,3882.2,parcialmente procedente,0.0,8700.66
+True,Maria Júlia Fukugava,False,4000.0,0.0,procedente,4000.0,0.0
+False,Diego Mineiro,False,0.0,0.0,improcedente,0.0,0.0
+True,Lucas Nogueira da Cruz (Lady Chokey),False,0.0,0.0,procedente,0.0,0.0
+True,João Francisco Raposo Soares,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Sintunifesp – Sindicato dos Trabalhadores Tec.adm Em Educ. Insti. Fed. Ens. Sup,False,10000.0,0.0,procedente,10000.0,0.0
+True,Marcio Rodrigo Scocco,False,10000.0,0.0,parcialmente procedente,10000.0,0.0
+True,Michael de Almeida,False,10426.1,4573.9,parcialmente procedente,0.0,4573.9
+False,Ludmila Silva Pezotti,False,5000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Miriam Vilas Bôas do Nascimento,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Carlos Gerardo Rios Osuna,False,5000.0,0.0,parcialmente procedente,5000.0,0.0
+True,William Guimaraes Santos,False,10000.0,0.0,procedente,10000.0,0.0
+True,Caue Vazquez La Scala Teixeira,False,10000.0,0.0,procedente,10000.0,0.0
+True,Debora Furgang,False,17000.0,0.0,improcedente,0.0,0.0
+True,HÉVELLY GROESCHEL GAMA DE GUSMÃO,False,0.0,0.0,improcedente,0.0,0.0
+True,Wagner Oliveira de Souza,False,15000.0,6241.84,improcedente,0.0,0.0
+False,Ariel Oliveira Silva,False,0.0,0.0,improcedente,0.0,0.0
+True,Mel Firetti Las Casas,True,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Ademar Canella Cabral,False,5000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Camilli Fernanda de Souza,True,15000.0,0.0,procedente,15000.0,0.0
+False,2k Cosmeticos Eireli,False,50000.0,0.0,procedente,20000.0,0.0
+True,Ingrede de Almeida da Silva,False,0.0,0.0,improcedente,0.0,0.0
+True,Juan Pablo de Paula Cunha,False,0.0,0.0,improcedente,0.0,0.0
+True,Bruno José Corrêa,False,0.0,1000.0,procedente,0.0,1000.0
+False,MARIEANNE MATROWITZ LOPES,False,0.0,5230.0,improcedente,0.0,0.0
+True,Etiane Felix dos Santos Fiz,False,0.0,0.0,improcedente,0.0,0.0
+False,CEDIO DE FREITAS BATISTA,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Jaqueline Aparecida Bomfim,True,10000.0,0.0,parcialmente procedente,10000.0,0.0
+True,Jmarques Intermediações Ltda,True,0.0,1000.0,procedente,0.0,1000.0
+True,Daniele Honoraro Fittipaldi,False,6000.0,0.0,parcialmente procedente,6000.0,0.0
+False,Kim Flores Carlos,True,0.0,0.0,improcedente,0.0,0.0
+True,Amira Mohamed Naranjo Laila,False,0.0,0.0,improcedente,0.0,0.0
+False,Karen Vitória de Morais Silva,False,0.0,0.0,improcedente,0.0,0.0
+False,Jeiciele Salmento da Silva,False,5000.0,0.0,parcialmente procedente,5000.0,0.0
+True,H. Imports Importacao e Exportacao Eireli,False,20000.0,1964280.54,procedente,20000.0,0.0
+True,William Vilas Boas Santana,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Matheus Gomes de Souza Ferreira,False,0.0,0.0,improcedente,0.0,0.0
+False,Maria Fernanda Santos,False,5000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Ilan Câmara dos Santos,False,5000.0,0.0,parcialmente procedente,0.0,0.0
+True,Carlos Eduardo Soares da Silva,False,0.0,0.0,improcedente,0.0,0.0
+True,Giovanna de Souza Cardoni Dameto,False,0.0,0.0,improcedente,0.0,0.0
+True,Gustavo Figueiredo dos Santos,False,5000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Fernanda Mota Farhat,True,0.0,0.0,improcedente,0.0,0.0
+True,Tuani Tais Basotti,False,0.0,0.0,procedente,0.0,0.0
+False,Protegendo Bem Clube de Benefícios,False,100000.0,0.0,improcedente,0.0,0.0
+True,EMILY COSTA PAULINO,False,5000.0,0.0,parcialmente procedente,0.0,0.0
+True,Renata Jorge Barreto,False,50000.0,0.0,improcedente,0.0,0.0
+True,Dm Negocios Digitais Ltda,False,10000.0,81156.91,parcialmente procedente,5000.0,0.0
+False,Justiça Pública,False,0.0,300.0,improcedente,0.0,300.0
+True,Aline Dias,False,0.0,0.0,procedente,0.0,0.0
+False,Adriana Gonzales Garcia Gazetta Ribeiro,False,0.0,0.0,procedente,0.0,0.0
+True,Thaina Oliveira da Silva,False,0.0,0.0,improcedente,0.0,0.0
+True,Eduarda Panzone de Castro,False,5000.0,0.0,procedente,5000.0,0.0
+True,Luis Felipe de Oliveira,False,3000.0,0.0,procedente,3000.0,0.0
+True,Diego Tadeu Bastos Fonseca Pinto,False,20000.0,0.0,improcedente,0.0,0.0
+False,Justiça Pública,False,0.0,0.0,improcedente,0.0,0.0
+True,Marlia Correia Rodrigues,False,0.0,0.0,parcialmente procedente,0.0,0.0
+False,Anna Flávia Siqueira Gamero,False,0.0,0.0,improcedente,0.0,0.0
+True,Nadine Katalina Quintanda Borges,False,0.0,0.0,improcedente,0.0,0.0
+False,,False,0.0,0.0,improcedente,0.0,0.0
+True,Fernanda Mota Farhat,False,0.0,2000.0,parcialmente procedente,0.0,2000.0
+False,Stephanie Pereira de Carvalho,False,35000.0,0.0,improcedente,0.0,0.0
+True,Andre Luiz Paternost,False,4000.0,0.0,parcialmente procedente,4000.0,0.0
+False,Rafael Maurício dos Santos Osete,False,15000.0,44.8,parcialmente procedente,0.0,0.0
+True,Premier Produtos Digitais Ltda,False,48000.0,0.0,improcedente,0.0,0.0
+True,Ariel Oliveira Silva,False,0.0,0.0,improcedente,0.0,0.0
+True,Gilberto Meireles Ferreira,False,0.0,0.0,improcedente,0.0,0.0
+False,Odontocompany Franchising Ltda.,False,30000.0,0.0,improcedente,0.0,0.0
+True,Taby Rodrigues de Carvalho,True,10000.0,0.0,parcialmente procedente,10000.0,0.0
+True,Izabella Barbosa de Aliais,False,15000.0,0.0,parcialmente procedente,0.0,0.0
+True,Daniel Soares Peixoto Rodrigues,False,0.0,0.0,improcedente,0.0,0.0
+False,Miriam Soares de Melo,False,0.0,5842.0,improcedente,0.0,0.0
+True,Douglas Richard Silva de Oliveira,True,15000.0,0.0,parcialmente procedente,3000.0,0.0
+False,,False,0.0,0.0,improcedente,0.0,0.0
+True,Diana Felipha dos Santos Abreu,False,0.0,910.17,improcedente,0.0,910.17
+True,Bruna Gomes da Silva Volpi,True,15000.0,0.0,parcialmente procedente,15000.0,0.0
+True,Clara Isis da Cunha Santos,False,22000.0,0.0,improcedente,0.0,0.0
+False,P Exp Empreendimentos Digitais e Intermediações Ltda,False,0.0,0.0,improcedente,0.0,0.0
+True,Adryan Gabriel Barbosa,False,0.0,0.0,improcedente,0.0,0.0
+False,,False,0.0,0.0,improcedente,0.0,349.77
+True,Amanda Reis dos Santos,False,0.0,0.0,parcialmente procedente,0.0,0.0
+False,,False,0.0,0.0,improcedente,0.0,0.0
+True,SABRINA MARTINS FÉLIX,True,0.0,500.0,procedente,0.0,500.0
+False,Bedspar Participações S.a,False,30000.0,0.0,parcialmente procedente,10000.0,0.0
+True,Mirian Kiyomi Fujiwara,False,20000.0,0.0,parcialmente procedente,4000.0,0.0
+True,Cristiano Macedo Engel,False,3000.0,0.0,procedente,3000.0,0.0
+False,Radarany Rodrigues da Silva,False,0.0,0.0,improcedente,0.0,0.0
+True,Daniel Soares Peixoto Rodrigues,False,0.0,0.0,improcedente,0.0,0.0
+True,Elis Regina Lezo Silva,False,10000.0,0.0,improcedente,0.0,0.0
+True,Henry Alessandro Milagres Nogueira,True,0.0,0.0,improcedente,0.0,1000.0
+True,Michely Oliveira de Jesus,False,30000.0,24800.0,parcialmente procedente,10000.0,0.0
+True,Luis Guillermo Cuellar Ramirez,False,0.0,0.0,improcedente,0.0,0.0
+True,Grossi Água Verde Escola de Idiomas Ltda,False,15000.0,0.0,improcedente,0.0,0.0
+True,Victor Stavale,False,0.0,0.0,improcedente,0.0,0.0
+True,Fernanda Sousa Bonfim,False,10000.0,0.0,parcialmente procedente,0.0,0.0
+False,Hotel Urbano Viagem e Turismo S/A,False,10000.0,0.0,procedente,10000.0,0.0
+False,Yasmin Arruda de Albuquerque,False,0.0,0.0,improcedente,0.0,0.0
+True,Henrick Marson Andrade Fernandes,False,0.0,0.0,improcedente,0.0,0.0
+True,Bruno Atanasov do Lago,False,20000.0,0.0,procedente,5000.0,0.0
+False,Justiça Pública,False,0.0,0.0,improcedente,0.0,0.0
+True,Isabella Fontanez de Araujo,False,0.0,0.0,improcedente,0.0,0.0
+False,Nadine Katalina Quintanda Borges,False,0.0,0.0,improcedente,0.0,0.0
+True,Isabella Maria Arantes,False,0.0,0.0,improcedente,0.0,0.0
+False,Glice do Sacramento Pinto Pacheco,False,4000.0,0.0,parcialmente procedente,4000.0,0.0
+True,Julliene Souza de Sena,False,5000.0,800.0,procedente,5000.0,800.0
+True,Daiane Estefane Leite Figueiredo,False,2000.0,0.0,parcialmente procedente,2000.0,0.0
+True,Ji Ae Jang Kim,False,10000.0,532.0,parcialmente procedente,0.0,0.0
+False,Justiça Pública,False,0.0,0.0,improcedente,0.0,0.0
+False,Bruno Alochio Queiroz,False,20000.0,543.46,parcialmente procedente,0.0,0.0
+False,Rosimeire Basto da Silva,False,0.0,1000.0,parcialmente procedente,0.0,1000.0
+True,Aparecido Rodrigues Marques,False,0.0,0.0,improcedente,0.0,0.0
+True,DANIEL SOARES PEIXOTO RODRIGUES,False,15000.0,0.0,procedente,5000.0,0.0
+True,Lucas Nogueira da Cruz (Lady Chokey),False,0.0,0.0,improcedente,0.0,0.0
+True,Vinicius Carrion Ferreira Pires,False,0.0,0.0,improcedente,0.0,0.0
+True,Henrick Marson Andrade Fernandes,False,0.0,0.0,improcedente,0.0,0.0
+False,Paulo Ricardo Oliveira Nery de Medeiros,False,0.0,0.0,improcedente,0.0,0.0
+False,Tião Carreiro Produções Artisticas Ltda - Me,False,10000.0,0.0,parcialmente procedente,10000.0,0.0
+True,Isabela Custodio Carita,False,0.0,0.0,improcedente,0.0,0.0
+True,Yara Amarante Schutze,False,0.0,0.0,improcedente,0.0,0.0
+True,Yara Amarante Schutze,False,0.0,0.0,improcedente,0.0,0.0
+True,Juliana Costa e Silva Lopes,False,13332.0,0.0,procedente,13332.0,0.0
+True,Yara Amarante Schutze,False,6510.0,0.0,procedente,6510.0,0.0
+True,Vitoria Maria Barbosa Fernandes da Silva,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Maria Eduarda Gomes Medeiros,False,0.0,0.0,improcedente,0.0,0.0
+False,,False,0.0,0.0,improcedente,0.0,0.0
+True,Gabriela Gomes de Souza,False,0.0,0.0,improcedente,0.0,0.0
+True,Cássia Reis Santos,False,0.0,0.0,improcedente,0.0,0.0
+True,Lucas Nogueira da Cruz (Lady Chokey),False,0.0,0.0,improcedente,0.0,0.0
+True,Isadora Oliveira Ferreira,True,20000.0,0.0,improcedente,0.0,0.0
+True,STEPHANI KORY ROSA CHAVEZ JARA,False,0.0,0.0,improcedente,0.0,0.0
+True,Maria do Nascimento Silva,False,30000.0,0.0,parcialmente procedente,15000.0,0.0
+False,Justiça Pública,False,0.0,0.0,improcedente,0.0,0.0
+True,ADRIANO ROBSON DA SILVA,False,24240.0,0.0,improcedente,0.0,0.0
+True,Marcos Paulo Pereira,False,30000.0,3600.0,procedente,20000.0,3600.0
+True,Angela Nayara Aparecida Ferracini Barbaresco,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Moriel Arcanjo Atanasio,False,3000.0,0.0,parcialmente procedente,7000.0,0.0
+False,Miriam Lionidia de Souza Evangelista,False,10000.0,2999.0,parcialmente procedente,0.0,2888.5
+True,Vitória Ferracini Borba,False,0.0,0.0,improcedente,0.0,0.0
+True,Flavio Luis Silva Dias,False,0.0,0.0,improcedente,0.0,0.0
+True,Antônio Cesar Rincon Filho,True,22000.0,0.0,procedente,10000.0,0.0
+True,Matheus Gomes de Souza Ferreira,False,0.0,0.0,improcedente,0.0,0.0
+True,Tetiane Rodrigues de Carvalho,False,0.0,0.0,improcedente,0.0,0.0
+True,Matheus Pivato da Silva-me,False,0.0,0.0,improcedente,0.0,0.0
+True,Jose Giovani de Sousa Alencar,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Celso Murilo Bombonati Araujo da Silva,False,15000.0,18000.0,improcedente,0.0,0.0
+False,,False,0.0,0.0,improcedente,0.0,0.0
+True,Eigon Oliveira do Carmo,False,0.0,500.0,improcedente,0.0,0.0
+False,,False,0.0,0.0,improcedente,0.0,0.0
+False,RAPHAEL MANCINI MAFRA,False,0.0,0.0,improcedente,0.0,0.0
+False,UNIMED DE GUARULHOS COOPERATIVA DE TRABALHO MEDICO,False,0.0,0.0,improcedente,0.0,0.0
+True,Treici Edna Trifiates Stering,False,0.0,0.0,improcedente,0.0,0.0
+True,Cleber Valadão Antunes,False,0.0,0.0,improcedente,0.0,0.0
+True,Josiane Nunes da Cruz,False,10000.0,0.0,improcedente,0.0,0.0
+False,Mariana Armada Camargo Ferreira,False,10000.0,3000.0,improcedente,0.0,0.0
+True,Gabriel Silva Pinto,False,0.0,0.0,improcedente,0.0,0.0
+True,Jadson Lessa Ribeiro,False,0.0,0.0,improcedente,0.0,0.0
+True,Nadine Katalina Quintanda Borges,False,0.0,0.0,parcialmente procedente,0.0,0.0
+False,Beatriz Costa Senne,False,0.0,0.0,improcedente,0.0,0.0
+True,Priscilla Agostinho Viana Soares,False,15000.0,0.0,parcialmente procedente,6000.0,0.0
+True,João Paulo Coronel Nunes,True,30000.0,0.0,parcialmente procedente,5000.0,0.0
+False,Leticia da Silva Barbosa,False,10000.0,0.0,improcedente,0.0,0.0
+True,José Francisco Rodrigues,False,15000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Rafael Toledo da Silva Duarte,False,0.0,0.0,improcedente,0.0,0.0
+False,Samuel dos Santos,False,0.0,0.0,improcedente,0.0,0.0
+False,Justiça Pública,False,0.0,0.0,improcedente,0.0,0.0
+True,Jean Carlos de Souza,False,10000.0,4914.0,parcialmente procedente,0.0,4914.0
+True,Gilberto Meireles Ferreira,False,25000.0,0.0,parcialmente procedente,25000.0,0.0
+False,Justiça Pública,False,0.0,0.0,improcedente,0.0,0.0
+False,Rita de Cassia Bettinelli Schincariol,False,0.0,278205.99,improcedente,0.0,0.0
+True,Adriana Paula Bueno de Oliveira,False,7000.0,26000.0,parcialmente procedente,7000.0,26000.0
+True,Flavia Morize Grams Fernandes,False,15000.0,0.0,improcedente,0.0,0.0
+True,Pp Marketing Ltda,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Daniel Soares Peixoto Rodrigues,False,15000.0,0.0,improcedente,0.0,0.0
+True,Flavia Raissa Santos de Melo,False,0.0,0.0,improcedente,0.0,0.0
+False,Stéfano Schwartz Reginato,False,0.0,0.0,improcedente,0.0,0.0
+False,Fazenda Pública do Estado de São Paulo,False,0.0,0.0,improcedente,0.0,0.0
+False,Bytedance Brasil Tecnologia Ltda,False,0.0,0.0,improcedente,0.0,0.0
+True,Josiane Nunes da Cruz,False,0.0,0.0,improcedente,0.0,0.0
+True,Alan Landecker,False,0.0,0.0,improcedente,0.0,0.0
+True,Sandra Regina Sant'anna Petitto,False,10000.0,0.0,improcedente,0.0,0.0
+True,Marcelo Roberto Arico,False,0.0,0.0,improcedente,0.0,0.0
+False,Luana Dantas Lima,False,10000.0,1467.18,improcedente,0.0,0.0
+False,Janaíres Pires Lima Mendes,False,0.0,442.85,improcedente,0.0,0.0
+False,Trans Kothe Transportes Rodoviários Ltda,False,0.0,0.0,parcialmente procedente,0.0,0.0
+True,Gabriel Silva Pinto,False,0.0,0.0,improcedente,0.0,0.0
+False,Elis Regina Lezo Silva,False,0.0,0.0,improcedente,0.0,0.0
+True,Jaqueline Aparecida de Souza Santos,False,10000.0,0.0,procedente,10000.0,0.0
+True,José Luiz Farias dos Santos,False,0.0,0.0,improcedente,0.0,0.0
+True,Lívia Eleutério Rodrigues,False,10000.0,1500.0,procedente,10000.0,1500.0
+True,Marlene Aparecida de Araujo,False,0.0,64201.6,improcedente,0.0,0.0
+False,Vinicius Pernia Casellato,False,15000.0,25000.0,improcedente,0.0,0.0
+False,,False,0.0,0.0,improcedente,0.0,0.0
+True,Fernanda Mota Farhat,False,0.0,2000.0,procedente,0.0,2000.0
+False,Marcio Di Sette,False,4000.0,2713.13,parcialmente procedente,4000.0,2713.13
+False,Yara Rosana Aparecida Telles,False,0.0,1200.0,improcedente,0.0,0.0
+True,Beatriz Montanheiro Silva,False,30000.0,0.0,parcialmente procedente,5000.0,0.0
+True,Gabriela Bittencourt Pereira,False,0.0,0.0,parcialmente procedente,0.0,0.0
+False,Paulo Regis Andrade,False,0.0,0.0,improcedente,0.0,0.0
+True,Larissa Pereira Cavalcante,False,0.0,0.0,improcedente,0.0,0.0
+True,Adriana Barreto Benite,True,20.0,20.0,improcedente,0.0,0.0
+False,Carlos Alberto Piazza Timo Iaria,False,5000.0,0.0,parcialmente procedente,0.0,0.0
